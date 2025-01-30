@@ -28,6 +28,10 @@ const Banner = memo(() => {
       banner:
         "https://img.lazcdn.com/us/domino/3bfc1c08-3a3b-4137-9ba7-6fa85300a280_BD-1976-688.jpg_2200x2200q80.jpg",
     },
+    {
+      banner:
+        "https://img.lazcdn.com/us/domino/c471b1b2-365c-42f8-bd9c-32a35c29b603_BD-1976-688.jpg_2200x2200q80.jpg",
+    },
   ];
 
   return (
