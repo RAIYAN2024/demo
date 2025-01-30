@@ -24,6 +24,7 @@ export default async function App() {
                 {item.title}
               </p>
               <p className="mx-2 font-bold">${item.price}</p>
+              <p className="mx-2 font-bold">{item.category}</p>
             </div>
           ))}
         </div>
