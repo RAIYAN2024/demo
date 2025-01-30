@@ -40,7 +40,7 @@ const Banner = memo(() => {
           loop={true}
           pagination={{ clickable: true }}
           autoplay={{ delay: 4000 }}
-          speed={350}
+          speed={300}
           className="overflow-y-hidden h-full"
         >
           {slides.map((slideContent, index) => (
